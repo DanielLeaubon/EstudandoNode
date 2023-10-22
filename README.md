@@ -1,2 +1,3 @@
-# EstudandoNode
-Estudando conteúdos de node.js
+# Estudando NODE
+
+Estou tentando melhorar e aprender mais sobre o NODE.
